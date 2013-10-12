@@ -1,0 +1,2 @@
+sample 9.02, can't set another color for subTexture.
+sample 9.03, core dump.
